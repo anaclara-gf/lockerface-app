@@ -1,11 +1,8 @@
 <div align="center">
   <h1>LockerFace App</h1>
+<p>LockerFace é um aplicativo a ser utilizado em lockers empresariais para desbloqueio de armários por meio de autenticação facial.</p>
+<p>Foi usado [**React Native**](https://reactnative.dev/) como framework JavaScript para escrever esse projeto.</p>
 </div>
-
-LockerFace é um aplicativo a ser utilizado em lockers empresariais para desbloqueio de armários por meio de autenticação facial. 
-
-Foi usado [**React Native**](https://reactnative.dev/) como framework JavaScript para escrever esse projeto. 
-
 <p align="center">
  <a href="#pre-requisitos">Pré-requisitos</a> •
  <a href="#instalacao">Instalação</a> •
