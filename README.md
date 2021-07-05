@@ -16,7 +16,6 @@ Foi usado [**React Native**](https://reactnative.dev/) como framework JavaScript
 ## Pré-requisitos 
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), [Expo](https://docs.expo.io/). 
 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/) e o aplicativo do Expo baixado no celular para conseguir visualizar o projeto (caso não seja possível, você pode baixar o [AndroidStudio](https://developer.android.com/studio/run/emulator) e usar o emulador do Android no seu computador Windows).
