@@ -1,7 +1,7 @@
 <div align="center">
   <h1>LockerFace App</h1>
 <p>LockerFace é um aplicativo a ser utilizado em lockers empresariais para desbloqueio de armários por meio de autenticação facial.</p>
-  <p>Foi usado <a href="https://reactnative.dev/"><b>React Native<b></a> como framework JavaScript para escrever esse projeto.</p>
+  <p>Foi usado <a href="https://reactnative.dev/"><b>React Native</b></a> como framework JavaScript para escrever esse projeto.</p>
 </div>
 <p align="center">
  <a href="#pre-requisitos">Pré-requisitos</a> •
