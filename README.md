@@ -36,7 +36,7 @@ AZURE_PASSWORD=sua-senha-aqui
 
 5. Iniciar o projeto com `expo start`
 
-## 🛠 Tecnologias
+## Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
