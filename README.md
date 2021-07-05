@@ -4,10 +4,10 @@
   <p>Foi usado <a href="https://reactnative.dev/"><b>React Native</b></a> como framework JavaScript para escrever esse projeto.</p>
 </div>
 <p align="center">
- <a href="#pre-requisitos">Pré-requisitos</a> •
- <a href="#instalacao">Instalação</a> •
+ <a href="#pré-requisitos">Pré-requisitos</a> •
+ <a href="#instalação">Instalação</a> •
  <a href="#tecnologias">Tecnologias</a> •
- <a href="#creditos">Créditos</a>
+ <a href="#créditos">Créditos</a>
 </p>
 
 ## Pré-requisitos 
